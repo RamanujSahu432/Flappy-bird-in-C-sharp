@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Galaxy Rush s a mobile game.
+Galaxy Rush is a mobile game.
 
 This game does not collect, store, or share any personal information from users.
 
