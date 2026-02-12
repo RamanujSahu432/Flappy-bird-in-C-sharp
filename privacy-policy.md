@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Galaxy Rush is a mobile game.
+One More Tap! is a mobile game.
 
 This game does not collect, store, or share any personal information from users.
 
